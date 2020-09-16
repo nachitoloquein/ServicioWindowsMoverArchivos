@@ -1,0 +1,7 @@
+C:\Users\elnac\source\repos\Carpetas\Carpetas\bin\Debug\Carpetas.exe.config
+C:\Users\elnac\source\repos\Carpetas\Carpetas\bin\Debug\Carpetas.exe
+C:\Users\elnac\source\repos\Carpetas\Carpetas\bin\Debug\Carpetas.pdb
+C:\Users\elnac\source\repos\Carpetas\Carpetas\obj\Debug\Carpetas.csprojAssemblyReference.cache
+C:\Users\elnac\source\repos\Carpetas\Carpetas\obj\Debug\Carpetas.csproj.CoreCompileInputs.cache
+C:\Users\elnac\source\repos\Carpetas\Carpetas\obj\Debug\Carpetas.exe
+C:\Users\elnac\source\repos\Carpetas\Carpetas\obj\Debug\Carpetas.pdb
